@@ -111,10 +111,9 @@
 
 ## 🌱 Current Interests
 
-- ☁️ Deepening my **cloud engineering** skills — designing scalable, cost-efficient infrastructure and deploying workloads across **AWS, GCP, and Azure**.
+- 🏗️ Diving deeper into **cloud infrastructure** — provisioning, networking, and Infrastructure as Code to run reliable, production-grade systems in the cloud.
+- ☁️ Deepening my **cloud engineering** skills — designing scalable, cost-efficient architecture and deploying workloads across **AWS, GCP, and Azure**.
 - ⚙️ Building robust **backend systems** — API design, databases, authentication, and distributed architecture that runs all the way to the **edge**.
-- 🏗️ Applying solid software architecture principles like the **Single Responsibility Principle (SRP)** to keep services clean and maintainable.
-- 📊 Exploring **backend-driven data analysis** for logistics & finance to support data-informed decisions.
 
 ---
 
