@@ -111,9 +111,10 @@
 
 ## 🌱 Current Interests
 
-- 🏗️ Menerapkan prinsip arsitektur perangkat lunak seperti **Single Responsibility Principle (SRP)** dalam pengembangan aplikasi lintas platform.
-- 📊 Mendalami **analisis data logistik & finansial** untuk pengambilan keputusan berbasis data.
-- ⚙️ Mengeksplorasi **mekanisme backend** — dari desain API, database, hingga arsitektur terdistribusi di edge.
+- ☁️ Deepening my **cloud engineering** skills — designing scalable, cost-efficient infrastructure and deploying workloads across **AWS, GCP, and Azure**.
+- ⚙️ Building robust **backend systems** — API design, databases, authentication, and distributed architecture that runs all the way to the **edge**.
+- 🏗️ Applying solid software architecture principles like the **Single Responsibility Principle (SRP)** to keep services clean and maintainable.
+- 📊 Exploring **backend-driven data analysis** for logistics & finance to support data-informed decisions.
 
 ---
 
