@@ -3,12 +3,13 @@
 <h1 align="center">Hi there, I'm Hasbi! 👋</h1>
 
 <p align="center">
-  An <strong>Informatics Engineering student</strong> passionate about building things across the stack —
-  from <strong>Full-Stack Web</strong> and <strong>Mobile apps</strong> to <strong>Edge Computing</strong> at the network frontier.
+  An <strong>Informatics Engineering student</strong> focused on <strong>Cloud Engineering</strong> —
+  designing and deploying scalable infrastructure across <strong>AWS, GCP, and Azure</strong>,
+  while building <strong>Full-Stack Web & Mobile apps</strong> that run all the way to the <strong>Edge</strong>.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nnurvy&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nnurvyy&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -127,6 +128,24 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nnurvyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<!-- ============================================================ -->
+<!-- Animasi Snake — heatmap commit yang "dimakan" ular.          -->
+<!-- CATATAN: Animasi ini butuh GitHub Action (Platane/snk).      -->
+<!-- File workflow-nya sudah disiapkan di:                        -->
+<!--   .github/workflows/snake.yml                                -->
+<!-- Setelah push ke repo Nnurvyy/Nnurvyy, jalankan workflow      -->
+<!-- "Generate Snake" sekali secara manual dari tab Actions,      -->
+<!-- maka gambar di bawah ini akan otomatis muncul.               -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nnurvyy/Nnurvyy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nnurvyy/Nnurvyy/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Nnurvyy/Nnurvyy/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
 </div>
 
 ---
