@@ -1,9 +1,4 @@
-<!-- ============================================================ -->
-<!-- GitHub Profile README — Hasbi                                -->
-<!-- CATATAN: Ganti semua `YOUR_GITHUB_USERNAME` dengan username  -->
-<!-- GitHub kamu, dan perbarui URL LinkedIn & Email di bagian     -->
-<!-- "Let's Connect" paling bawah.                                -->
-<!-- ============================================================ -->
+
 
 <h1 align="center">Hi there, I'm Hasbi! 👋</h1>
 
@@ -13,8 +8,7 @@
 </p>
 
 <p align="center">
-  <!-- CATATAN: Ganti YOUR_GITHUB_USERNAME pada badge visitor count di bawah -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nnurvy&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -124,7 +118,7 @@
 
 ## 📊 GitHub Analytics
 
-<!-- CATATAN: Ganti semua `YOUR_GITHUB_USERNAME` di bawah ini dengan username GitHub kamu -->
+
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nnurvyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
